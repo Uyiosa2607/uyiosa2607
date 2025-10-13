@@ -4,7 +4,7 @@ I'm a passionate software developer specializing in building modern web and mobi
 
 ## 🛠️ Tech Stack
 
-**Web:**
+**Frontend(Web):**
 - Next.js (React)
 - Tailwind CSS
 - Supabase (with PostgreSQL)
