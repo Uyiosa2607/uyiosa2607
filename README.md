@@ -1,41 +1,40 @@
-# Hi there 👋, I'm Osas!
+# Osas — Software Developer
 
-I'm a passionate software developer specializing in building modern web and mobile applications. I love turning ideas into reality using code and have a keen interest in scalable, maintainable, and user-friendly products.
+I'm a software developer specializing in building modern web and mobile applications. I work across the full stack to create scalable, user-focused solutions using JavaScript and Flutter.
 
-## 🛠️ Tech Stack
+## 🛠️ Technical Expertise
 
-**Frontend(Web):**
-- Next.js (React)
-- Tailwind CSS
-- Supabase (with PostgreSQL)
-- TypeScript
+**Web Development**
+- 🎨 Frontend: Next.js, React, TypeScript, Tailwind CSS
+- ⚙️ Backend: Node.js, Express.js, Prisma ORM
+- 🗄️ Database & Infrastructure: PostgreSQL, Supabase
+- 🔐 Authentication: BetterAuth
 
-**Backend:**
-- Express.js
-- BetterAuth
-- Prisma ORM
+**Mobile Development**
+- 📱 Flutter (Dart) for cross-platform applications
 
-**Mobile:**
-- Flutter (Dart)
+## 🎯 Current Focus
 
-## 🚀 What I’m Working On
-- Building full-stack web apps with Next.js, Supabase & PostgreSQL
-- Crafting mobile apps with Flutter
-- Exploring advanced authentication flows and scalable backend systems
+I'm currently deepening my expertise in:
+- Advanced PostgreSQL optimization and database design
+- Real-time application architectures with Supabase
+- Scalable authentication systems and security best practices
+- Cloud infrastructure and DevOps workflows
 
-## 🌱 Currently Learning
-- Advanced PostgreSQL features
-- Real-time apps with Supabase
-- Improving DevOps workflows
+## 💡 Professional Interests
 
-## 📫 How to reach me
-- [GitHub](https://github.com/Uyiosa2607)
-- [LinkedIn](https://www.linkedin.com/in/uyiosa2607/) <!-- Update with your LinkedIn if you have one -->
-- [Twitter](https://twitter.com/Uyiosa2607) <!-- Update or remove if not applicable -->
+I'm particularly interested in:
+- Building systems that scale efficiently
+- Developer experience and tooling
+- Modern authentication patterns
+- Open source collaboration
 
-## ⚡ Fun Fact
-I'm always eager to learn new technologies and contribute to open source!
+## 📫 Let's Connect
+
+- **GitHub:** [Uyiosa2607](https://github.com/Uyiosa2607)
+- **LinkedIn:** [uyiosa2607](https://www.linkedin.com/in/uyiosa2607/)
+- **Twitter:** [@Uyiosa2607](https://twitter.com/Uyiosa2607)
 
 ---
 
-*Let’s connect and build something amazing together!*
+*Open to interesting projects and collaboration opportunities.*
