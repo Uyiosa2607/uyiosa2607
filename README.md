@@ -1,40 +1,47 @@
-# Osas — Software Developer
+# Aghahowa Uyiosa (Hero) — Lead Full-Stack & Mobile Engineer
 
-I'm a software developer specializing in building modern web and mobile applications. I work across the full stack to create scalable, user-focused solutions using JavaScript and Flutter.
+I am a Lead Software Engineer specializing in architecting modern, high-performance web, desktop, and mobile applications. Operating across the entire stack, I focus on building robust type-safe backends, scalable database architectures, and seamless, fluid user interfaces. 
 
-## 🛠️ Technical Expertise
-
-**Web Development**
-- 🎨 Frontend: Next.js, React, TypeScript, Tailwind CSS
-- ⚙️ Backend: Node.js, Express.js, Prisma ORM
-- 🗄️ Database & Infrastructure: PostgreSQL, Supabase
-- 🔐 Authentication: BetterAuth
-
-**Mobile Development**
-- 📱 Flutter (Dart) for cross-platform applications
-
-## 🎯 Current Focus
-
-I'm currently deepening my expertise in:
-- Advanced PostgreSQL optimization and database design
-- Real-time application architectures with Supabase
-- Scalable authentication systems and security best practices
-- Cloud infrastructure and DevOps workflows
-
-## 💡 Professional Interests
-
-I'm particularly interested in:
-- Building systems that scale efficiently
-- Developer experience and tooling
-- Modern authentication patterns
-- Open source collaboration
-
-## 📫 Let's Connect
-
-- **GitHub:** [Uyiosa2607](https://github.com/Uyiosa2607)
-- **LinkedIn:** [uyiosa2607](https://www.linkedin.com/in/uyiosa2607/)
-- **Twitter:** [@Uyiosa2607](https://twitter.com/Uyiosa2607)
+With proven experience leading small, agile engineering teams and delivering production-ready platforms, I bridge the gap between complex technical infrastructure and exceptional user experience.
 
 ---
 
-*Open to interesting projects and collaboration opportunities.*
+## 🛠️ Technical Expertise
+
+**Backend Engineering & Architecture**
+- ⚙️ **Runtimes & Frameworks:** Node.js, TypeScript, Express.js, Encore.ts
+- 🗄️ **Databases & ORMs:** PostgreSQL, Prisma ORM, Advanced Query & Schema Design
+- 🔐 **Security & Auth:** BetterAuth, OAuth, JWT, secure session management
+- 🔄 **Real-Time Systems:** WebSockets (WS/Socket.io), event-driven architectures, real-time sync
+
+**Frontend & Client-Side Development**
+- 🎨 **Web Frontend:** Next.js, React, TypeScript, Tailwind CSS
+- 📱 **Mobile Development:** Flutter (Dart) for high-performance cross-platform applications
+- 💻 **Desktop Applications:** Building native desktop wrappers and tooling (Tauri, React)
+
+---
+
+## 🚀 Featured Production Builds
+
+*   **Multi-Vendor E-Commerce Infrastructure:** Designed and deployed a complex, production-ready rental and multi-vendor e-commerce platform using Next.js and Express, featuring real-time state synchronization.
+*   **High-Scale Logistics & Dispatch Systems:** Built real-time rider booking and tracking ecosystems utilizing high-performance Encore.ts backends and Flutter mobile interfaces.
+*   **Hardware-Integrated Mobile Apps:** Developed data-rich mobile applications interfacing directly with smartwatches for real-time health and biometric tracking.
+
+---
+
+## 🎯 Current Engineering Focus
+
+I am continuously pushing the boundaries of my technical practice, currently focusing on:
+- 🏎️ **Advanced Database Optimization:** Deep-diving into PostgreSQL indexing strategies, complex query optimization, and connection pooling for high-throughput applications.
+- ⚡ **Custom Real-Time Architectures:** Engineering low-latency, persistent connection layers using WebSockets for real-time collaborative tools.
+- 🛠️ **Developer Experience (DX):** Streamlining monorepo workflows, type-safe API generation, and highly efficient CI/CD pipelines.
+
+---
+
+## 📫 Let's Connect
+
+- **GitHub:** [Uyiosa2607](https://github.com/Uyiosa2607) 
+- **Twitter:** [@h3ro2607](https://x.com/h3ro2607)
+
+---
+*Available for high-impact technical collaborations, architectural consulting, and scaling modern applications.*
