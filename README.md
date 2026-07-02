@@ -1,6 +1,6 @@
 # Aghahowa Uyiosa (Hero)  Full-Stack & Mobile Engineer
 
-I am a Lead Software Engineer specializing in architecting modern, high-performance web, desktop, and mobile applications. Operating across the entire stack, I focus on building robust type-safe backends, scalable database architectures, and seamless, fluid user interfaces. 
+I am aSoftware Engineer specializing in architecting modern, high-performance web, desktop, and mobile applications. Operating across the entire stack, I focus on building robust type-safe backends, scalable database architectures, and seamless, fluid user interfaces. 
 
 With proven experience leading small, agile engineering teams and delivering production-ready platforms, I bridge the gap between complex technical infrastructure and exceptional user experience.
 
