@@ -40,7 +40,6 @@ I am continuously pushing the boundaries of my technical practice, currently foc
 
 ## 📫 Let's Connect
 
-- **GitHub:** [Uyiosa2607](https://github.com/Uyiosa2607) 
 - **Twitter:** [@h3ro2607](https://x.com/h3ro2607)
 
 ---
